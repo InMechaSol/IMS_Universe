@@ -1,2 +1,2 @@
 # IMS_Universe
-An application, that's always expanding!
+An application that's always expanding!
